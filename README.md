@@ -1,7 +1,7 @@
 #AltusMods
 The Language accepted so far:
 -> The parser is a recursive Descent parser that parses the following CFG:
-Block - BLock | Statement
+Block - Block | Statement
 Statement - =Expression
 Expression - operand operator Expression | operand
 
